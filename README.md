@@ -1,5 +1,3 @@
 # Cheffon Gateway
 
-```bash
--Dspring.profiles.active=dev
-```
+Gateway da API backend do Cheffon
